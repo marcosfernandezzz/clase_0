@@ -1,0 +1,4 @@
+GIT
+
+git init --> creamos un repositorio
+git status --> comprobamosel estado de la carpeta (vemos info del repo)
